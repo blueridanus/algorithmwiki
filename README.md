@@ -38,6 +38,9 @@ ANY math that uses special symbols *must* be explained and accompanied by a code
 ### Code must be Fully Featured yet Simple
 Your code shouldn't be over-engineered - aim for the smallest amount of code you can possibly use to illustrate a point, but make sure to use good self-documenting naming and proper  spacing/indenting of code. Comments should only explain desired results and how code implementation relates to higher level theory.
 
+### Code Snippet Goal & Licenses
+Gather all useful general purpose code snippets from across the world and gather them in one organized space. All code must be available for any purpose - GPL/LGPL is NOT allowed, neither is Microsoft Public License. We prefer MIT, ZLIB, Apache 2.0, BSD, Boost Software License, or Public Domain. All code on AlgorithmWiki must allow use for commercial purposes and integration into existing proprietary/closed source code bases.
+
 ### External Reference Material
 We try to collect the best blog posts, scientific research papers, stackoverflow posts, and Wikipedia articles for additional reference.
 If you deeply understand a scientific research paper, we'd greatly appreciate your commentary on the paper! If you have sucessfully implemented a concept explained in a scientific research paper, we'd love to see any code snippets you're willing to share!
