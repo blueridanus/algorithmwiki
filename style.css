@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200);
+
+body {
+  background-image: url(http://i.imgur.com/n9ICV8m.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  background-position: center;
+}
+div {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255,255,255,0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header {
+  border-left: solid 1px #CCC;
+  padding-left: 15px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+header h1,h2,a {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+  margin: 0;
+}
+header h1{
+  color: #333;
+  font-size: 12vmin;
+}
+header h2{
+  color: #555;
+  font-size: 5vmin;
+}
+header a {
+  text-decoration: none;
+  font-size: 4vh;
+  color: #558;
+}
